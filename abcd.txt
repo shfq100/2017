@@ -7,8 +7,5 @@ testing the work
 going forward
 i am starting my own
 very clever
-<<<<<<< HEAD
 
-=======
 am going ahead of you
->>>>>>> merge
